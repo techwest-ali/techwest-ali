@@ -15,4 +15,4 @@ Everything I share on [LinkedIn](https://www.linkedin.com/in/ali-asad-980866305/
 
 ---
 
-[⬅️ Back to profile](https://github.com/awan6434) · [💼 Follow on LinkedIn](https://www.linkedin.com/in/ali-asad-980866305/recent-activity/all/)
+[⬅️ Back to profile](https://github.com/techwest-ali) · [💼 Follow on LinkedIn](https://www.linkedin.com/in/ali-asad-980866305/recent-activity/all/)
