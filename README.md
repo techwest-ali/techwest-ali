@@ -91,8 +91,8 @@ Most businesses don't need more developers. They need **one team that owns the w
 ## 📊 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=awan6434&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awan6434&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=techwest-ali&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwest-ali&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
 </p>
 
 ---
