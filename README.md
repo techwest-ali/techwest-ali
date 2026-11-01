@@ -1,47 +1,91 @@
 <p align="center">
-  <img src="./banner.svg" alt="Mohammad Abdullah Amjad — Flutter Developer & PhD Researcher" width="100%">
+  <img src="./linkedin-banner.jpg" alt="Ali Asad — Techwest Solutions Limited" width="100%">
 </p>
 
-## Hi, I'm Aabi 👋
+<h1 align="center">Hi, I'm Ali Asad 👋</h1>
 
-**Flutter Developer · PhD Researcher at KIT · Founder of Techwest Solutions Limited**
+<p align="center">
+  <b>Director @ Techwest Solutions Ltd</b><br>
+  I build Flutter apps, websites & AI automations that grow businesses<br>
+  Top-Rated on Upwork (Top 10%) · Mobile • Web • Backend • ASO
+</p>
 
-I build production mobile apps with Flutter and research high-performance computer architecture at the
-Karlsruhe Institute of Technology (KIT), in the CAPP group of Prof. Dr. Wolfgang Karl.
-
-- 📱 Shipping Android apps on Google Play under **Techwest Solutions Limited**
-- 🔬 PhD research: measurement studies of **NVIDIA BlueField-2 DPUs** (DPU-to-DPU transfer costs, batching, memory bandwidth, DOCA Comm Channel)
-- 🧑‍🏫 Supervising student projects on heterogeneous CPU/GPU placement and FHE profiling
-- 🛠️ Leading a small backend team — Laravel, REST APIs, Firebase
-- 📍 Karlsruhe, Germany · 💼 Open to freelance Flutter work
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-asad-980866305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://play.google.com/store/apps/developer?id=TechWestSolutionslimited"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"></a>
+  <img src="https://img.shields.io/badge/Upwork-Top_Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Top Rated on Upwork">
+</p>
 
 ---
 
-### 📱 Apps on Google Play
+## 🚀 About
+
+Most businesses don't need more developers. They need **one team that owns the whole thing**, from idea to launch to growth.
+
+**Techwest Solutions Limited** is a UK-registered software company that builds mobile apps, websites and AI-powered tools for startups and growing businesses.
+
+| | What we do |
+|---|---|
+| 📱 | **Mobile Apps** — Flutter apps for Android & iOS with a smooth, premium feel |
+| 🌐 | **Websites & Web Apps** — fast, SEO-ready, built to turn visitors into clients |
+| 🤖 | **AI Automation** — chatbots, smart workflows and AI features inside your product |
+| ⚙️ | **Backend & APIs** — Laravel, Firebase and REST, secure and ready to scale |
+| 🎨 | **UI/UX Design** — clean interfaces people actually enjoy using |
+| 📈 | **App Growth & ASO** — store listings, localisation and more installs |
+
+**Why clients choose us:** ✔ Top-Rated on Upwork (Top 10%) · ✔ UK-registered company · ✔ 4 of our own apps live on Google Play, in up to 15 languages · ✔ Clear scope, weekly demos, clean code
+
+---
+
+## 📱 Our Apps on Google Play
 
 | App | What it does |
 |---|---|
-| **ComicToons** | Offline CBZ / CBR / PDF / EPUB reader with WebDAV sync |
-| **MangaNews** | Anime & manga news with a release calendar, in 15 languages |
-| **Mangova** | Anime quiz game |
-| **Irova** | Anime color-by-number app |
-| **MONTRA Wealth** | Personal finance app |
-
-➡️ [See all apps on Google Play](https://play.google.com/store/apps/developer?id=TechWestSolutionslimited)
+| **[ComicToons: CBZ & CBR Reader](https://play.google.com/store/apps/developer?id=TechWestSolutionslimited)** | Offline reader for your own CBZ/CBR/PDF/EPUB files — no sign-up, no ads, WebDAV sync, 11 languages |
+| **[MangaNews: Anime Release Dates](https://play.google.com/store/apps/developer?id=TechWestSolutionslimited)** | Anime & manga news in one feed + release calendar with live countdowns, 15 languages |
+| **[MANGOVA: Anime Quiz & Trivia](https://play.google.com/store/apps/developer?id=TechWestSolutionslimited)** | Anime quiz and trivia game |
+| **[IROVA: Anime Color by Number](https://play.google.com/store/apps/developer?id=TechWestSolutionslimited)** | Anime-style color-by-number app |
 
 ---
 
-### 🧰 Tech Stack
+## 💼 Experience
 
-**Mobile:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-0A1A2F?style=flat)
+- **Director — Mobile App, Website & AI Development** · Techwest Solutions Limited · *Apr 2026 – Present*
+- **Top Rated Upwork Profile Optimization Expert & Bidder Manager** · Upwork · *Mar 2019 – Present*
+- **Software Engineer (.NET)** · CodSoft, Faisalabad · *Sep 2020 – Oct 2024*
 
-**Backend:** ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat)
-
-**Research / Systems:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![NVIDIA](https://img.shields.io/badge/BlueField_DPU_/_DOCA-76B900?style=flat&logo=nvidia&logoColor=white)
+🎓 University of Central Punjab (UCP) · 📍 Faisalabad, Punjab, Pakistan
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-412991?style=flat&logo=openai&logoColor=white)
+![Figma](https://img.shields.io/badge/UI%2FUX-F24E1E?style=flat&logo=figma&logoColor=white)
+![ASO](https://img.shields.io/badge/ASO-414141?style=flat&logo=googleplay&logoColor=white)
+
+---
+
+## 📝 Latest Posts (from LinkedIn)
+
+- **We build the whole thing, from idea to growth** — what Techwest does across mobile, web, AI, backend, UI/UX and ASO. Got an idea? DM "BUILD" for a clear plan and estimate. → [Read on LinkedIn](https://www.linkedin.com/in/ali-asad-980866305/recent-activity/all/)
+- **Launching MangaNews** — one feed for anime & manga news, a release calendar with live countdowns, 15 languages, no account needed. → [Read on LinkedIn](https://www.linkedin.com/in/ali-asad-980866305/recent-activity/all/)
+- **Launching ComicToons** — a CBZ/CBR reader for the files you already own: offline, no ads, no tracking, WebDAV sync. → [Read on LinkedIn](https://www.linkedin.com/in/ali-asad-980866305/recent-activity/all/)
+
+➡️ [See all posts on LinkedIn](https://www.linkedin.com/in/ali-asad-980866305/recent-activity/all/)
+
+---
+
+## 📊 GitHub Stats
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=awan6434&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
@@ -50,6 +94,5 @@ Karlsruhe Institute of Technology (KIT), in the CAPP group of Prof. Dr. Wolfgang
 
 ---
 
-### 🤝 Connect
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=TechWestSolutionslimited)
+<p align="center"><b>Got an app, website or AI idea sitting in your notes?</b><br>
+<a href="https://www.linkedin.com/in/ali-asad-980866305/">Message me on LinkedIn</a> and I'll come back with a clear plan and estimate.</p>
