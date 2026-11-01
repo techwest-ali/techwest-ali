@@ -75,13 +75,16 @@ Most businesses don't need more developers. They need **one team that owns the w
 
 ---
 
-## 📝 Latest Posts (from LinkedIn)
+## 📝 Posts
 
-- **We build the whole thing, from idea to growth** — what Techwest does across mobile, web, AI, backend, UI/UX and ASO. Got an idea? DM "BUILD" for a clear plan and estimate. → [Read on LinkedIn](https://www.linkedin.com/in/ali-asad-980866305/recent-activity/all/)
-- **Launching MangaNews** — one feed for anime & manga news, a release calendar with live countdowns, 15 languages, no account needed. → [Read on LinkedIn](https://www.linkedin.com/in/ali-asad-980866305/recent-activity/all/)
-- **Launching ComicToons** — a CBZ/CBR reader for the files you already own: offline, no ads, no tracking, WebDAV sync. → [Read on LinkedIn](https://www.linkedin.com/in/ali-asad-980866305/recent-activity/all/)
+<table>
+<tr><td width="50%" valign="top"><a href="posts/techwest-one-team.md"><img src="posts/images/techwest-one-team.jpg" width="100%"></a><br><b><a href="posts/techwest-one-team.md">One team from idea to launch to growth</a></b><br><sub>📅 2026-11-01</sub></td><td width="50%" valign="top"><a href="posts/manganews-launch.md"><img src="posts/images/manganews-launch.jpg" width="100%"></a><br><b><a href="posts/manganews-launch.md">Launching MangaNews: anime & manga news + release calendar</a></b><br><sub>📅 2026-11-01</sub></td></tr>
+<tr><td width="50%" valign="top"><a href="posts/comictoons-launch.md"><img src="posts/images/comictoons-launch.jpg" width="100%"></a><br><b><a href="posts/comictoons-launch.md">Launching ComicToons: a CBZ & CBR reader for files you own</a></b><br><sub>📅 2026-10-31</sub></td><td width="50%" valign="top"><a href="posts/upwork-agency-sales.md"><img src="posts/images/upwork-agency-sales.jpg" width="100%"></a><br><b><a href="posts/upwork-agency-sales.md">I help agencies grow sales on Upwork</a></b><br><sub>📅 2024-10-22</sub></td></tr>
+<tr><td width="50%" valign="top"><a href="posts/upwork-5-star-review.md"><img src="posts/images/upwork-5-star-review.jpg" width="100%"></a><br><b><a href="posts/upwork-5-star-review.md">Struggling to stand out on Upwork?</a></b><br><sub>📅 2024-10-21</sub></td><td width="50%" valign="top"><a href="posts/new-to-upwork.md"><img src="posts/images/new-to-upwork.jpg" width="100%"></a><br><b><a href="posts/new-to-upwork.md">New to Upwork? Let's turn your profile into a client magnet</a></b><br><sub>📅 2024-10-20</sub></td></tr>
+<tr><td width="50%" valign="top"><a href="posts/upwork-services.md"><img src="posts/images/upwork-services.jpg" width="100%"></a><br><b><a href="posts/upwork-services.md">My Upwork growth services</a></b><br><sub>📅 2024-10-20</sub></td><td width="50%" valign="top"><a href="posts/upwork-services-2.md"><img src="posts/images/upwork-services-2.jpg" width="100%"></a><br><b><a href="posts/upwork-services-2.md">My Upwork growth services (part 2)</a></b><br><sub>📅 2024-10-19</sub></td></tr>
+</table>
 
-➡️ [See all posts on LinkedIn](https://www.linkedin.com/in/ali-asad-980866305/recent-activity/all/)
+➡️ [All posts](posts/README.md) · [Follow on LinkedIn](https://www.linkedin.com/in/ali-asad-980866305/recent-activity/all/)
 
 ---
 
